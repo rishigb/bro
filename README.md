@@ -12,9 +12,12 @@ I could, in the future use this to download links, or automate them, torrents et
 
 
 ###readmebro
-The first row are the keys. Read up more about this on [sheetsu](https://sheetsu.com/)
 
+Questions:
 ![This is how the questions look](https://github.com/rishigb/bro/blob/master/remindMe/firstLook.png)
+
+Spreadsheet. Read up more on this on [sheetsu](https://sheetsu.com/)
 
 ![This is how the data structure looks.](https://github.com/rishigb/bro/blob/master/remindMe/dataStructure.png)
 
+Next step is to integrate this with pynotify or growl for mac.
