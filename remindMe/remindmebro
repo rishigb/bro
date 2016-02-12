@@ -1,0 +1,15 @@
+echo remind what?
+read -p "remind what? " what
+read -p "remind when? " when
+
+#Post it to the DB, google docs in this case.
+curl -i \
+-H "Accept: application/json" \
+-H "Content-Type:application/json" \
+-X POST --data '{"intime":"'"`date`"'","what":"'"$what"'","when":"'"$when"'"}' "https://sheetsu.com/apis/v1.0/link"
+
+
+
+echo DONE
+
+clear
