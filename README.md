@@ -14,8 +14,7 @@ I could, in the future use this to download links, or automate them, torrents et
 ###readmebro
 The first row are the keys. Read up more about this on [sheetsu](https://sheetsu.com/)
 
-![This is how the questions look]()
+![This is how the questions look](https://github.com/rishigb/bro/blob/master/remindMe/firstLook.png)
 
-![This is how the data structure looks.]
-(https://github.com/rishigb/bro/blob/master/remindMe/dataStructure.png)
+![This is how the data structure looks.](https://github.com/rishigb/bro/blob/master/remindMe/dataStructure.png)
 
